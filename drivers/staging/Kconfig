@@ -88,4 +88,6 @@ source "drivers/staging/ethosu/Kconfig"
 
 source "drivers/staging/neutron/Kconfig"
 
+source "drivers/staging/abe/Kconfig"
+
 endif # STAGING

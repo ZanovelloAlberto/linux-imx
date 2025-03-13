@@ -1,0 +1,7 @@
+config ABE_LCD
+       tristate "abe lcd support"
+       default n
+       depends on SPI
+       # ---help---
+       # helper driver for abe lcd configuration
+

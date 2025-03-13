@@ -33,3 +33,5 @@ obj-$(CONFIG_QLGE)		+= qlge/
 obj-$(CONFIG_FSL_PPFE)		+= fsl_ppfe/
 obj-$(CONFIG_ETHOSU)		+= ethosu/
 obj-$(CONFIG_NEUTRON)		+= neutron/
+obj-$(CONFIG_ABE_LCD)		+= abe/
+
